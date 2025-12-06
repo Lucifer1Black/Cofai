@@ -1,0 +1,14 @@
+{
+  "Id": 100663469,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "JD_Angle",
+  "Type": "real",
+  "IsArray": true,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

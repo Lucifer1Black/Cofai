@@ -1,0 +1,14 @@
+{
+  "Id": 100663653,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "SFS_Max_Stock",
+  "Type": "integer",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

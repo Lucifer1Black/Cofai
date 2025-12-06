@@ -1,0 +1,14 @@
+{
+  "Id": 100663721,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "AI_Building_Top",
+  "Type": "unit",
+  "IsArray": true,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

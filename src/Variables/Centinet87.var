@@ -1,0 +1,14 @@
+{
+  "Id": 100663344,
+  "ArraySize": [
+    21,
+    1
+  ],
+  "Name": "Centinet87",
+  "Type": "integer",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

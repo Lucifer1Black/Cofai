@@ -1,0 +1,14 @@
+{
+  "Id": 100663759,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "AM_PLAYER_HERO_ICON_PATH",
+  "Type": "integer",
+  "IsArray": true,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

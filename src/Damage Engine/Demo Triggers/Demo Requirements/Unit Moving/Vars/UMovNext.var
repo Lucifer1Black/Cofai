@@ -1,0 +1,14 @@
+{
+  "Id": 100663980,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "UMovNext",
+  "Type": "integer",
+  "IsArray": true,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

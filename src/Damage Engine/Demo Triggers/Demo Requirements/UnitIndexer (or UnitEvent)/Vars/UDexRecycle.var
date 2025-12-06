@@ -1,0 +1,14 @@
+{
+  "Id": 100663989,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "UDexRecycle",
+  "Type": "integer",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

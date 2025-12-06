@@ -1,0 +1,14 @@
+{
+  "Id": 100663340,
+  "ArraySize": [
+    12,
+    1
+  ],
+  "Name": "Player_Name_Color",
+  "Type": "string",
+  "IsArray": true,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Id": 100663936,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "DAMAGE_TYPE_SPIRIT_LINK",
+  "Type": "integer",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

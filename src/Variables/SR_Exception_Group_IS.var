@@ -1,0 +1,14 @@
+{
+  "Id": 100663581,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "SR_Exception_Group_IS",
+  "Type": "group",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

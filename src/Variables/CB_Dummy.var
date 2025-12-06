@@ -1,0 +1,14 @@
+{
+  "Id": 100663442,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "CB_Dummy",
+  "Type": "unit",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

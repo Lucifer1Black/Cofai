@@ -1,0 +1,14 @@
+{
+  "Id": 100663729,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "AI_Allies_Count",
+  "Type": "integer",
+  "IsArray": true,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

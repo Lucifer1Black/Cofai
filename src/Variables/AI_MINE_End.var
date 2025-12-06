@@ -1,0 +1,14 @@
+{
+  "Id": 100663738,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "AI_MINE_End",
+  "Type": "boolean",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

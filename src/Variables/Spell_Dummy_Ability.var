@@ -1,0 +1,14 @@
+{
+  "Id": 100663641,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "Spell_Dummy_Ability",
+  "Type": "abilcode",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

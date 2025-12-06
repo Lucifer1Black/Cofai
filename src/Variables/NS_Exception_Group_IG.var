@@ -1,0 +1,14 @@
+{
+  "Id": 100663565,
+  "ArraySize": [
+    12,
+    1
+  ],
+  "Name": "NS_Exception_Group_IG",
+  "Type": "group",
+  "IsArray": true,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

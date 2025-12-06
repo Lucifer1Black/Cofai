@@ -1,0 +1,14 @@
+{
+  "Id": 100663963,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "WEAPON_TYPE_WH_SLICE",
+  "Type": "integer",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

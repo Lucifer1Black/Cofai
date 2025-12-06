@@ -1,0 +1,14 @@
+{
+  "Id": 100663705,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "AI_Fight_Time",
+  "Type": "boolean",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Id": 100663835,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "LethalDamageHP",
+  "Type": "real",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Id": 100663988,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "UnitIndexEvent",
+  "Type": "real",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

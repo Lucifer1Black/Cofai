@@ -1,0 +1,14 @@
+{
+  "Id": 100663608,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "Tauren_Hp",
+  "Type": "integer",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

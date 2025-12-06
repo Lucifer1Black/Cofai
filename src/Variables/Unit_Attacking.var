@@ -1,0 +1,14 @@
+{
+  "Id": 100663349,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "Unit_Attacking",
+  "Type": "unit",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

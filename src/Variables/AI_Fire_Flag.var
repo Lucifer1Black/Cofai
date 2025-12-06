@@ -1,0 +1,14 @@
+{
+  "Id": 100663723,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "AI_Fire_Flag",
+  "Type": "unit",
+  "IsArray": true,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

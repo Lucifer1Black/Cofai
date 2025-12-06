@@ -1,0 +1,14 @@
+{
+  "Id": 100663630,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "CS_Trigger_Effect",
+  "Type": "trigger",
+  "IsArray": true,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

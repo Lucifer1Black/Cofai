@@ -1,0 +1,14 @@
+{
+  "Id": 100663648,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "TempAbility",
+  "Type": "abilcode",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

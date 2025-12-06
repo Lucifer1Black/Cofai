@@ -1,0 +1,14 @@
+{
+  "Id": 100663624,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "TW_Flying_Value",
+  "Type": "real",
+  "IsArray": true,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

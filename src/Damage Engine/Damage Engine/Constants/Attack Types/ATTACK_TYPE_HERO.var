@@ -1,0 +1,14 @@
+{
+  "Id": 100663906,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "ATTACK_TYPE_HERO",
+  "Type": "integer",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

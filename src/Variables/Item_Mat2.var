@@ -1,0 +1,14 @@
+{
+  "Id": 100663319,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "Item_Mat2",
+  "Type": "itemcode",
+  "IsArray": true,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

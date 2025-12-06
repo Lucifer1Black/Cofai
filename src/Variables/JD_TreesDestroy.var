@@ -1,0 +1,14 @@
+{
+  "Id": 100663474,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "JD_TreesDestroy",
+  "Type": "boolean",
+  "IsArray": true,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

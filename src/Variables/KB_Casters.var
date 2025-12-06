@@ -1,0 +1,14 @@
+{
+  "Id": 100663426,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "KB_Casters",
+  "Type": "unit",
+  "IsArray": true,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

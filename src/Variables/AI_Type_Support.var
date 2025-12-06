@@ -1,0 +1,14 @@
+{
+  "Id": 100663684,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "AI_Type_Support",
+  "Type": "boolean",
+  "IsArray": true,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

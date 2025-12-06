@@ -1,0 +1,14 @@
+{
+  "Id": 100663730,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "AI_Frost_Flag",
+  "Type": "unit",
+  "IsArray": true,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

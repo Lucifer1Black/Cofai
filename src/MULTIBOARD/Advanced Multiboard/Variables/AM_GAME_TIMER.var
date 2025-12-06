@@ -1,0 +1,14 @@
+{
+  "Id": 100663760,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "AM_GAME_TIMER",
+  "Type": "boolean",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

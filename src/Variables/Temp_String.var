@@ -1,0 +1,14 @@
+{
+  "Id": 100663483,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "Temp_String",
+  "Type": "string",
+  "IsArray": true,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

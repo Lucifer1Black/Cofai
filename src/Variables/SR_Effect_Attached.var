@@ -1,0 +1,14 @@
+{
+  "Id": 100663623,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "SR_Effect_Attached",
+  "Type": "effect",
+  "IsArray": true,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

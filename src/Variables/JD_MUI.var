@@ -1,0 +1,14 @@
+{
+  "Id": 100663460,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "JD_MUI",
+  "Type": "integer",
+  "IsArray": true,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

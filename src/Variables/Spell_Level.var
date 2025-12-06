@@ -1,0 +1,14 @@
+{
+  "Id": 100663523,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "Spell_Level",
+  "Type": "integer",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

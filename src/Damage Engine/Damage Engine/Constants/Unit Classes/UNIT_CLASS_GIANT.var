@@ -1,0 +1,14 @@
+{
+  "Id": 100663882,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "UNIT_CLASS_GIANT",
+  "Type": "integer",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

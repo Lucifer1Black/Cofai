@@ -1,0 +1,14 @@
+{
+  "Id": 100663466,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "JD_SpeedUnits",
+  "Type": "real",
+  "IsArray": true,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

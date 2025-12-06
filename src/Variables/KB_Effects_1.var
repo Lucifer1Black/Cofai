@@ -1,0 +1,14 @@
+{
+  "Id": 100663421,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "KB_Effects_1",
+  "Type": "string",
+  "IsArray": true,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

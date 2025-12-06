@@ -1,0 +1,14 @@
+{
+  "Id": 100663897,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "ARMOR_TYPE_STONE",
+  "Type": "integer",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

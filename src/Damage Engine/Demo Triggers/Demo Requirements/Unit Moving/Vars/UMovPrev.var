@@ -1,0 +1,14 @@
+{
+  "Id": 100663981,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "UMovPrev",
+  "Type": "integer",
+  "IsArray": true,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

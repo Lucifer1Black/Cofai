@@ -1,0 +1,14 @@
+{
+  "Id": 100663603,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "Game_Boss_Kiljaeden",
+  "Type": "unit",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

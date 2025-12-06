@@ -1,0 +1,14 @@
+{
+  "Id": 100663776,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "AM_BAR_COLOUR",
+  "Type": "string",
+  "IsArray": true,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

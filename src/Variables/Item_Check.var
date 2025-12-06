@@ -1,0 +1,14 @@
+{
+  "Id": 100663306,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "Item_Check",
+  "Type": "integer",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

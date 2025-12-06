@@ -1,0 +1,14 @@
+{
+  "Id": 100663689,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "AI_Loop",
+  "Type": "integer",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

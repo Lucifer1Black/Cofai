@@ -1,0 +1,14 @@
+{
+  "Id": 100663828,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "IsDamageAttack",
+  "Type": "boolean",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

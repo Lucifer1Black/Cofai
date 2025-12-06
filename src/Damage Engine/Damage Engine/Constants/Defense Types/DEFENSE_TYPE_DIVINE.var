@@ -1,0 +1,14 @@
+{
+  "Id": 100663946,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "DEFENSE_TYPE_DIVINE",
+  "Type": "integer",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

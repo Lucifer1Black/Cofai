@@ -1,0 +1,14 @@
+{
+  "Id": 100663937,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "DAMAGE_TYPE_SHADOW_STRIKE",
+  "Type": "integer",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

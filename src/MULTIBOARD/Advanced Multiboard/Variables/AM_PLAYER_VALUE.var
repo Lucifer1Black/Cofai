@@ -1,0 +1,14 @@
+{
+  "Id": 100663761,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "AM_PLAYER_VALUE",
+  "Type": "integer",
+  "IsArray": true,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

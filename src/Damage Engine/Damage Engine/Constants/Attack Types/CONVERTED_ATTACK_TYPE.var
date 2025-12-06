@@ -1,0 +1,14 @@
+{
+  "Id": 100663899,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "CONVERTED_ATTACK_TYPE",
+  "Type": "attacktype",
+  "IsArray": true,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

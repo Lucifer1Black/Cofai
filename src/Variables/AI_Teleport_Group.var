@@ -1,0 +1,14 @@
+{
+  "Id": 100663739,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "AI_Teleport_Group",
+  "Type": "group",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

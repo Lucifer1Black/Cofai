@@ -1,0 +1,14 @@
+{
+  "Id": 100663694,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "AI_Custom_02",
+  "Type": "integer",
+  "IsArray": true,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

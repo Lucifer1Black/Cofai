@@ -1,0 +1,14 @@
+{
+  "Id": 100663777,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "AM_VALUE_ICON",
+  "Type": "string",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

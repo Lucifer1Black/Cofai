@@ -1,0 +1,14 @@
+{
+  "Id": 100663746,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "ATC_Loop",
+  "Type": "integer",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

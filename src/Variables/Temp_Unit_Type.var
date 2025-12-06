@@ -1,0 +1,14 @@
+{
+  "Id": 100663453,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "Temp_Unit_Type",
+  "Type": "unitcode",
+  "IsArray": true,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Id": 100663902,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "ATTACK_TYPE_PIERCE",
+  "Type": "integer",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

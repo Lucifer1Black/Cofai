@@ -1,0 +1,14 @@
+{
+  "Id": 100663570,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "CF_Point_Loop",
+  "Type": "location",
+  "IsArray": true,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Id": 100663979,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "AOEString",
+  "Type": "string",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

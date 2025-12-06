@@ -1,0 +1,14 @@
+{
+  "Id": 100663986,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "UnitMovementInterval",
+  "Type": "real",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Id": 100663342,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "Spell_AMG",
+  "Type": "integer",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

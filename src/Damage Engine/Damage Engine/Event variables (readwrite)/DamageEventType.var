@@ -1,0 +1,14 @@
+{
+  "Id": 100663841,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "DamageEventType",
+  "Type": "integer",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

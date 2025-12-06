@@ -1,0 +1,14 @@
+{
+  "Id": 100663539,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "TW_Current_High",
+  "Type": "real",
+  "IsArray": true,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

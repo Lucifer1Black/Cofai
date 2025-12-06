@@ -1,0 +1,14 @@
+{
+  "Id": 100663708,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "AI_Target_Hero",
+  "Type": "unit",
+  "IsArray": true,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

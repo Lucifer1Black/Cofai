@@ -1,0 +1,14 @@
+{
+  "Id": 100663785,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "AM_NAME",
+  "Type": "string",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

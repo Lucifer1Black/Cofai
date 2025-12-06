@@ -1,0 +1,14 @@
+{
+  "Id": 100663858,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "DamageFilterFailChance",
+  "Type": "real",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

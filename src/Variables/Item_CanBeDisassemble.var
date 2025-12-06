@@ -1,0 +1,14 @@
+{
+  "Id": 100663305,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "Item_CanBeDisassemble",
+  "Type": "boolean",
+  "IsArray": true,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

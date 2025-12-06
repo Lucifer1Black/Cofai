@@ -1,0 +1,14 @@
+{
+  "Id": 100663465,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "JD_ReachedDistance",
+  "Type": "real",
+  "IsArray": true,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

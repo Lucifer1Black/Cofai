@@ -1,0 +1,14 @@
+{
+  "Id": 100663637,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "CS_Ability",
+  "Type": "abilcode",
+  "IsArray": true,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

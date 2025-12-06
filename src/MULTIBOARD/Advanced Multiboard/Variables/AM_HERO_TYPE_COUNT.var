@@ -1,0 +1,14 @@
+{
+  "Id": 100663763,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "AM_HERO_TYPE_COUNT",
+  "Type": "integer",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

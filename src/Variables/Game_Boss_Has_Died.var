@@ -1,0 +1,14 @@
+{
+  "Id": 100663742,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "Game_Boss_Has_Died",
+  "Type": "boolean",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

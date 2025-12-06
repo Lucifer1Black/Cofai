@@ -1,0 +1,14 @@
+{
+  "Id": 100663995,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "UDexGen",
+  "Type": "integer",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

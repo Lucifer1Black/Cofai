@@ -1,0 +1,14 @@
+{
+  "Id": 100663418,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "KB_ReachedDistance",
+  "Type": "real",
+  "IsArray": true,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

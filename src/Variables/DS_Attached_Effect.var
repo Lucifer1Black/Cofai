@@ -1,0 +1,14 @@
+{
+  "Id": 100663664,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "DS_Attached_Effect",
+  "Type": "effect",
+  "IsArray": true,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

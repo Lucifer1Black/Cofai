@@ -1,0 +1,14 @@
+{
+  "Id": 100663556,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "FR_Player",
+  "Type": "player",
+  "IsArray": true,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

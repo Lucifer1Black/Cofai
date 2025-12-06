@@ -1,0 +1,14 @@
+{
+  "Id": 100663311,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "Item_DisassemblePoint",
+  "Type": "location",
+  "IsArray": true,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

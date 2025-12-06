@@ -1,0 +1,14 @@
+{
+  "Id": 100663896,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "ARMOR_TYPE_ETHEREAL",
+  "Type": "integer",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Id": 100663769,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "AM_BAR_STRING",
+  "Type": "string",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

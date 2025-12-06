@@ -1,0 +1,14 @@
+{
+  "Id": 100663994,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "UDexNext",
+  "Type": "integer",
+  "IsArray": true,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

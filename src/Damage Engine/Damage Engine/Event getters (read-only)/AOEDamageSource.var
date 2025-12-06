@@ -1,0 +1,14 @@
+{
+  "Id": 100663821,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "AOEDamageSource",
+  "Type": "unit",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Id": 100663393,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "DamageEventPrevAmt",
+  "Type": "real",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

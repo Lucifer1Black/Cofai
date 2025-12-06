@@ -1,0 +1,14 @@
+{
+  "Id": 100663501,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "JDA_Spell_Level",
+  "Type": "integer",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Id": 100663304,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "Result",
+  "Type": "itemcode",
+  "IsArray": true,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

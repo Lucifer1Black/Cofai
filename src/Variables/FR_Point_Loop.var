@@ -1,0 +1,14 @@
+{
+  "Id": 100663575,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "FR_Point_Loop",
+  "Type": "location",
+  "IsArray": true,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

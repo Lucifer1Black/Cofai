@@ -1,0 +1,14 @@
+{
+  "Id": 100663781,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "AM_LB",
+  "Type": "leaderboard",
+  "IsArray": true,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

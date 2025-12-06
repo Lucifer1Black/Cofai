@@ -1,0 +1,14 @@
+{
+  "Id": 100663341,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "Hero_Kills_Count",
+  "Type": "integer",
+  "IsArray": true,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

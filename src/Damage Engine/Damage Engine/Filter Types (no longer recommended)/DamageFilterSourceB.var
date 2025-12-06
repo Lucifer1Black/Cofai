@@ -1,0 +1,14 @@
+{
+  "Id": 100663853,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "DamageFilterSourceB",
+  "Type": "buffcode",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

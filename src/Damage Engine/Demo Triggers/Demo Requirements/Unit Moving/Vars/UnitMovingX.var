@@ -1,0 +1,14 @@
+{
+  "Id": 100663984,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "UnitMovingX",
+  "Type": "real",
+  "IsArray": true,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

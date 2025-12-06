@@ -1,0 +1,14 @@
+{
+  "Id": 100663852,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "DamageFilterTargetT",
+  "Type": "unitcode",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

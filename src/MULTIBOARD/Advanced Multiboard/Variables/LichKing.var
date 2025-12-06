@@ -1,0 +1,14 @@
+{
+  "Id": 100663786,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "LichKing",
+  "Type": "force",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

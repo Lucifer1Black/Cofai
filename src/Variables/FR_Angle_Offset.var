@@ -1,0 +1,14 @@
+{
+  "Id": 100663578,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "FR_Angle_Offset",
+  "Type": "real",
+  "IsArray": true,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

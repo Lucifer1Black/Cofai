@@ -1,0 +1,14 @@
+{
+  "Id": 100663545,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "TW_Go_Up",
+  "Type": "boolean",
+  "IsArray": true,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

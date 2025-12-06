@@ -1,0 +1,14 @@
+{
+  "Id": 100663933,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "DAMAGE_TYPE_DEFENSIVE",
+  "Type": "integer",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

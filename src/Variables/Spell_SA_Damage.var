@@ -1,0 +1,14 @@
+{
+  "Id": 100663358,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "Spell_SA_Damage",
+  "Type": "integer",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

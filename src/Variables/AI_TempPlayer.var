@@ -1,0 +1,14 @@
+{
+  "Id": 100663704,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "AI_TempPlayer",
+  "Type": "player",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

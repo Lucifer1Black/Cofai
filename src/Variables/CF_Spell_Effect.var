@@ -1,0 +1,14 @@
+{
+  "Id": 100663573,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "CF_Spell_Effect",
+  "Type": "abilcode",
+  "IsArray": true,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

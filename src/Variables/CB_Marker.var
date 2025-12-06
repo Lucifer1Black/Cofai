@@ -1,0 +1,14 @@
+{
+  "Id": 100663527,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "CB_Marker",
+  "Type": "unit",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

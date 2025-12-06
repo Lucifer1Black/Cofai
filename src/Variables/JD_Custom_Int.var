@@ -1,0 +1,14 @@
+{
+  "Id": 100663585,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "JD_Custom_Int",
+  "Type": "integer",
+  "IsArray": true,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

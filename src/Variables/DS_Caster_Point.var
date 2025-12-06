@@ -1,0 +1,14 @@
+{
+  "Id": 100663662,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "DS_Caster_Point",
+  "Type": "location",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

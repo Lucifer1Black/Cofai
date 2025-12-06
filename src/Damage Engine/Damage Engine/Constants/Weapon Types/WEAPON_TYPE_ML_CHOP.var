@@ -1,0 +1,14 @@
+{
+  "Id": 100663951,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "WEAPON_TYPE_ML_CHOP",
+  "Type": "integer",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

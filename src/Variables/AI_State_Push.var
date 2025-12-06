@@ -1,0 +1,14 @@
+{
+  "Id": 100663726,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "AI_State_Push",
+  "Type": "boolean",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

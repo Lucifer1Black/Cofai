@@ -1,0 +1,14 @@
+{
+  "Id": 100663438,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "FR_Exception_Group",
+  "Type": "group",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

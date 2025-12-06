@@ -1,0 +1,14 @@
+{
+  "Id": 100663335,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "Item_RecipeMax",
+  "Type": "integer",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

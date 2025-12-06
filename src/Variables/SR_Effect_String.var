@@ -1,0 +1,14 @@
+{
+  "Id": 100663505,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "SR_Effect_String",
+  "Type": "string",
+  "IsArray": true,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

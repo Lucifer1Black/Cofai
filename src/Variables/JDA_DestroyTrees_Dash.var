@@ -1,0 +1,14 @@
+{
+  "Id": 100663475,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "JDA_DestroyTrees_Dash",
+  "Type": "boolean",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

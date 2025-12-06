@@ -1,0 +1,14 @@
+{
+  "Id": 100663916,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "CONVERTED_DAMAGE_TYPE",
+  "Type": "damagetype",
+  "IsArray": true,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

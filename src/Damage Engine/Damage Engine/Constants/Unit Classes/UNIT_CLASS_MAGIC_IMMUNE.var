@@ -1,0 +1,14 @@
+{
+  "Id": 100663865,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "UNIT_CLASS_MAGIC_IMMUNE",
+  "Type": "integer",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

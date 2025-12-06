@@ -1,0 +1,14 @@
+{
+  "Id": 100663772,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "AM_TIME_MINUTES",
+  "Type": "integer",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

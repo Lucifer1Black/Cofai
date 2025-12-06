@@ -1,0 +1,14 @@
+{
+  "Id": 100663737,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "AI_MINE_MUI",
+  "Type": "integer",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

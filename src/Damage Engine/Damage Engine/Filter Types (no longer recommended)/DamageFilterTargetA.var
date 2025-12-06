@@ -1,0 +1,14 @@
+{
+  "Id": 100663860,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "DamageFilterTargetA",
+  "Type": "abilcode",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

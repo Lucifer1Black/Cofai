@@ -1,0 +1,14 @@
+{
+  "Id": 100663880,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "UNIT_CLASS_STUNNED",
+  "Type": "integer",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

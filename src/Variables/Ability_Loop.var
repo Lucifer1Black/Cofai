@@ -1,0 +1,14 @@
+{
+  "Id": 100663433,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "Ability_Loop",
+  "Type": "abilcode",
+  "IsArray": true,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

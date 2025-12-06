@@ -1,0 +1,14 @@
+{
+  "Id": 100663543,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "TW_Effect",
+  "Type": "string",
+  "IsArray": true,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

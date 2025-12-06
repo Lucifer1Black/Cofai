@@ -1,0 +1,14 @@
+{
+  "Id": 100663755,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "AM_SHOW_OPPONENT_VALUE",
+  "Type": "boolean",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

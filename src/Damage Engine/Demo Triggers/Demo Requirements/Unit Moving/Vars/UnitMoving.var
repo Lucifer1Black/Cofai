@@ -1,0 +1,14 @@
+{
+  "Id": 100663982,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "UnitMoving",
+  "Type": "boolean",
+  "IsArray": true,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

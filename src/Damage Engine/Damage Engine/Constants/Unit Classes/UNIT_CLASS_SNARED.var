@@ -1,0 +1,14 @@
+{
+  "Id": 100663878,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "UNIT_CLASS_SNARED",
+  "Type": "integer",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

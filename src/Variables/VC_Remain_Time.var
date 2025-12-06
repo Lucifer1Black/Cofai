@@ -1,0 +1,14 @@
+{
+  "Id": 100663490,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "VC_Remain_Time",
+  "Type": "real",
+  "IsArray": true,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

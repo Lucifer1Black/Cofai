@@ -1,0 +1,14 @@
+{
+  "Id": 100663813,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "AOEDamageEvent",
+  "Type": "real",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

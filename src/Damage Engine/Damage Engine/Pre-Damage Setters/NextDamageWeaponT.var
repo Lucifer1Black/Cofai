@@ -1,0 +1,14 @@
+{
+  "Id": 100663846,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "NextDamageWeaponT",
+  "Type": "integer",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

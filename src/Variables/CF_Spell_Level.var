@@ -1,0 +1,14 @@
+{
+  "Id": 100663514,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "CF_Spell_Level",
+  "Type": "integer",
+  "IsArray": true,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

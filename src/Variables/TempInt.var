@@ -1,0 +1,14 @@
+{
+  "Id": 100663296,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "TempInt",
+  "Type": "integer",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

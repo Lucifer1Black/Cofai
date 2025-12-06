@@ -1,0 +1,14 @@
+{
+  "Id": 100663754,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "Game_Siege_Count",
+  "Type": "integer",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

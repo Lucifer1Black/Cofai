@@ -1,0 +1,14 @@
+{
+  "Id": 100663542,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "TW_Speed",
+  "Type": "real",
+  "IsArray": true,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

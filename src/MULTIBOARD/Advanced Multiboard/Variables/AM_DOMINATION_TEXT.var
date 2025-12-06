@@ -1,0 +1,14 @@
+{
+  "Id": 100663757,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "AM_DOMINATION_TEXT",
+  "Type": "string",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Id": 100663450,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "CSA_Damaged_Group",
+  "Type": "group",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

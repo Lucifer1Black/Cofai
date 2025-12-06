@@ -1,0 +1,14 @@
+{
+  "Id": 100663842,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "NextDamageIsAttack",
+  "Type": "boolean",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

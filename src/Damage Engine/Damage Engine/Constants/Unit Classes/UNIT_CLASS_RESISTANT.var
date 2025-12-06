@@ -1,0 +1,14 @@
+{
+  "Id": 100663867,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "UNIT_CLASS_RESISTANT",
+  "Type": "integer",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

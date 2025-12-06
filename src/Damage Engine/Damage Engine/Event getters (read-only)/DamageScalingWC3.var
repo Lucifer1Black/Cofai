@@ -1,0 +1,14 @@
+{
+  "Id": 100663826,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "DamageScalingWC3",
+  "Type": "real",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

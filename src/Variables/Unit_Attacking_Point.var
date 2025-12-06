@@ -1,0 +1,14 @@
+{
+  "Id": 100663360,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "Unit_Attacking_Point",
+  "Type": "location",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

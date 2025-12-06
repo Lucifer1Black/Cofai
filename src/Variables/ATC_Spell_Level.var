@@ -1,0 +1,14 @@
+{
+  "Id": 100663751,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "ATC_Spell_Level",
+  "Type": "integer",
+  "IsArray": true,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

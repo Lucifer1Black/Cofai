@@ -1,0 +1,14 @@
+{
+  "Id": 100663685,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "AI_Type_Tanker",
+  "Type": "boolean",
+  "IsArray": true,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

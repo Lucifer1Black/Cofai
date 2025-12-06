@@ -1,0 +1,14 @@
+{
+  "Id": 100663456,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "RV_Hero",
+  "Type": "unit",
+  "IsArray": true,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Id": 100663557,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "ItemCleanupFlag",
+  "Type": "boolean",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

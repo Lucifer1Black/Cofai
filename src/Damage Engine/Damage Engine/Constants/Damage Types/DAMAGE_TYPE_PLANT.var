@@ -1,0 +1,14 @@
+{
+  "Id": 100663932,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "DAMAGE_TYPE_PLANT",
+  "Type": "integer",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

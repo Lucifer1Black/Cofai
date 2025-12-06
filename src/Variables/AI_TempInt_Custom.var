@@ -1,0 +1,14 @@
+{
+  "Id": 100663692,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "AI_TempInt_Custom",
+  "Type": "integer",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

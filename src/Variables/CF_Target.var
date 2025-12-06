@@ -1,0 +1,14 @@
+{
+  "Id": 100663397,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "CF_Target",
+  "Type": "unit",
+  "IsArray": true,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

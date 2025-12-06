@@ -1,0 +1,14 @@
+{
+  "Id": 100663866,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "UNIT_CLASS_ETHEREAL",
+  "Type": "integer",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

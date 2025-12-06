@@ -1,0 +1,14 @@
+{
+  "Id": 100663317,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "Item_LoopC",
+  "Type": "integer",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

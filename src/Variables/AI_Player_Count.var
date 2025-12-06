@@ -1,0 +1,14 @@
+{
+  "Id": 100663718,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "AI_Player_Count",
+  "Type": "integer",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

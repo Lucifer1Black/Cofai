@@ -1,0 +1,14 @@
+{
+  "Id": 100663452,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "CSA_Caster_Mana",
+  "Type": "real",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

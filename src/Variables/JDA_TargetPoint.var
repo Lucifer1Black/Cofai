@@ -1,0 +1,14 @@
+{
+  "Id": 100663464,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "JDA_TargetPoint",
+  "Type": "location",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

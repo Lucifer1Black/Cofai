@@ -1,0 +1,14 @@
+{
+  "Id": 100663635,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "CS_Player",
+  "Type": "player",
+  "IsArray": true,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

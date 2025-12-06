@@ -1,0 +1,14 @@
+{
+  "Id": 100663872,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "UNIT_CLASS_ANCIENT",
+  "Type": "integer",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Id": 100663855,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "DamageFilterType",
+  "Type": "integer",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

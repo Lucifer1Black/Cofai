@@ -1,0 +1,14 @@
+{
+  "Id": 100663957,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "WEAPON_TYPE_MM_BASH",
+  "Type": "integer",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Id": 100663812,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "SourceDamageEvent",
+  "Type": "real",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Id": 100663765,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "AM_HERO_DEATHS",
+  "Type": "integer",
+  "IsArray": true,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

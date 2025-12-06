@@ -1,0 +1,14 @@
+{
+  "Id": 100663680,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "AI_Skill_02",
+  "Type": "abilcode",
+  "IsArray": true,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

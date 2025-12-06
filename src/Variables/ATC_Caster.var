@@ -1,0 +1,14 @@
+{
+  "Id": 100663743,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "ATC_Caster",
+  "Type": "unit",
+  "IsArray": true,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

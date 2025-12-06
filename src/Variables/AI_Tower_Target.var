@@ -1,0 +1,14 @@
+{
+  "Id": 100663715,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "AI_Tower_Target",
+  "Type": "unit",
+  "IsArray": true,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

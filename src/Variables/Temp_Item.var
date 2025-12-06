@@ -1,0 +1,14 @@
+{
+  "Id": 100663741,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "Temp_Item",
+  "Type": "item",
+  "IsArray": true,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

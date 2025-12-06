@@ -1,0 +1,14 @@
+{
+  "Id": 100663707,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "AI_State_Chasing",
+  "Type": "boolean",
+  "IsArray": true,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

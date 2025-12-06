@@ -1,0 +1,14 @@
+{
+  "Id": 100663609,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "Wisp_Player",
+  "Type": "unit",
+  "IsArray": true,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

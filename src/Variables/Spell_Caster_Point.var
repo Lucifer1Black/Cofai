@@ -1,0 +1,14 @@
+{
+  "Id": 100663353,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "Spell_Caster_Point",
+  "Type": "location",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}

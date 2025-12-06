@@ -1,0 +1,14 @@
+{
+  "Id": 100663779,
+  "ArraySize": [
+    1,
+    1
+  ],
+  "Name": "AM_PG_ALL",
+  "Type": "force",
+  "IsArray": false,
+  "IsTwoDimensions": false,
+  "InitialValue": {
+    "value": null
+  }
+}
