@@ -76,8 +76,7 @@
             "value": null
           },
           {
-            "ParamType": 5,
-            "value": "Uwar_0015"
+            "value": null
           }
         ],
         "value": "SetVariable"

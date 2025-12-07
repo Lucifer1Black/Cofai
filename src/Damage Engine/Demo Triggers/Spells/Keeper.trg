@@ -76,8 +76,7 @@
             "value": null
           },
           {
-            "ParamType": 5,
-            "value": "Ekee_0094"
+            "value": null
           }
         ],
         "value": "SetVariable"

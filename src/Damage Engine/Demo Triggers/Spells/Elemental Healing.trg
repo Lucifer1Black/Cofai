@@ -76,8 +76,7 @@
             "value": null
           },
           {
-            "ParamType": 5,
-            "value": "Hamg_0006"
+            "value": null
           }
         ],
         "value": "SetVariable"
